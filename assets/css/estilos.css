@@ -18,11 +18,11 @@ ul {
   }
   
   li a:hover {
-    background-color: #4eb9cc;
+    background-color: #c11d1d;
   }
   
   .activo {
-    background-color: #20597d;
+    background-color: #870404;
   }
   
   .derecha {
@@ -32,12 +32,12 @@ ul {
   .miJumbo {
     margin-top: 1rem;
     padding: 32px 16px;
-    background-color: #206dba;
+    background-color: #e71313;
     border-radius: 0.5rem;
     text-align: center;
     color: aliceblue;
   }
 
   .fondo {
-    background-color: rgb(232, 236, 239);
+    background-color: rgb(155, 81, 81);
   }
